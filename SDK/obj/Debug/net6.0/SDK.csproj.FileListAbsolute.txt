@@ -1,0 +1,15 @@
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\bin\Debug\net6.0\SDK.exe
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\bin\Debug\net6.0\SDK.deps.json
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\bin\Debug\net6.0\SDK.runtimeconfig.json
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\bin\Debug\net6.0\SDK.dll
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\bin\Debug\net6.0\SDK.pdb
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.csproj.AssemblyReference.cache
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.AssemblyInfoInputs.cache
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.AssemblyInfo.cs
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.csproj.CoreCompileInputs.cache
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.dll
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\refint\SDK.dll
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.pdb
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\SDK.genruntimeconfig.cache
+C:\Users\SHORIA\Desktop\Софт\C#\SDK\obj\Debug\net6.0\ref\SDK.dll
